@@ -1,2 +1,3 @@
 # Artificial-Intelligence-
-This Repo is all about my AI practice Problems and Projects which includes Machinelearning and Deep Learning
+This repository is all about my AI and Data Science practice Problems and Projects.
+
